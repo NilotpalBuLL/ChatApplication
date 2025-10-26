@@ -1,0 +1,7 @@
+
+/* Classic - WhatsApp-like */
+.root { -fx-font-family: 'Segoe UI', Arial; -fx-background-color: #ece5dd; }
+.text-area { -fx-control-inner-background: white; -fx-font-size: 13px; }
+.list-view { -fx-background-color: #f6f6f6; }
+.button { -fx-background-color: #25D366; -fx-text-fill: white; -fx-font-weight: bold; }
+.label { -fx-text-fill: #222; }

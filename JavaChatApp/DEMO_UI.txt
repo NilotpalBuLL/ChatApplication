@@ -1,0 +1,7 @@
+
+Demo UI description (visual):
+- Left: Users list and a checkbox "Private to selected user"
+- Center: Large chat area showing messages
+- Bottom: Text input and Send button
+- Top: Host and Port inputs (default localhost:5000)
+- To send AI query: type message and set recipient to AI (not in list) by prefixing message with /ai: or use private to AI if server supports it.

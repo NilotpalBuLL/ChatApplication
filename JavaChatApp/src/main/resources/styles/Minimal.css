@@ -1,0 +1,7 @@
+
+/* Minimal Clean */
+.root { -fx-font-family: 'Helvetica Neue', Arial; -fx-background-color: #f7f8fa; -fx-text-fill: #111; }
+.text-area { -fx-control-inner-background: white; -fx-font-size: 14px; -fx-border-color: transparent; }
+.list-view { -fx-background-color: #ffffff; -fx-border-color: #e6e9ef; }
+.button { -fx-background-color: #1f6feb; -fx-text-fill: white; -fx-font-weight: 600; }
+.label { -fx-text-fill: #222; }

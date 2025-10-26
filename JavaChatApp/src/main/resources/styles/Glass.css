@@ -1,0 +1,7 @@
+
+/* Glassmorphism Blue Gradient */
+.root { -fx-font-family: 'Segoe UI', Arial; -fx-background-color: linear-gradient(to bottom, #0f172a, #0b1220); -fx-text-fill: #e6f0ff; }
+.text-area { -fx-control-inner-background: rgba(255,255,255,0.06); -fx-font-size: 13px; -fx-text-fill: #e6f0ff; -fx-background-radius: 12; -fx-border-radius: 12; }
+.list-view { -fx-background-color: rgba(255,255,255,0.03); -fx-text-fill: #e6f0ff; -fx-background-radius: 8; }
+.button { -fx-background-color: linear-gradient(to right, #36d1dc, #5b86e5); -fx-text-fill: #021; -fx-font-weight: bold; }
+.label { -fx-text-fill: #cfe9ff; }

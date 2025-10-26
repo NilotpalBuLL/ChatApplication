@@ -1,0 +1,1 @@
+UI mockup: The client has a top bar with Host/Port/Theme, left user list, center chat area and bottom input. Themes are Classic, DiscordDark, Minimal, Glass.

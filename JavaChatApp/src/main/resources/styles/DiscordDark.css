@@ -1,0 +1,8 @@
+
+/* Discord-like Dark */
+.root { -fx-font-family: 'Segoe UI', Arial; -fx-background-color: #2f3136; -fx-text-fill: #dcddde; }
+.text-area { -fx-control-inner-background: #36393f; -fx-font-size: 13px; -fx-text-fill: #dcddde; }
+.list-view { -fx-background-color: #202226; -fx-text-fill: #dcddde; }
+.button { -fx-background-color: #7289DA; -fx-text-fill: white; -fx-font-weight: bold; }
+.label { -fx-text-fill: #b9bbbe; }
+.tool-bar { -fx-background-color: transparent; }
