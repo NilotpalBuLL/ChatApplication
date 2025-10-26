@@ -29,39 +29,6 @@ The application also features a **modern graphical user interface** with multipl
 
 ---
 
-## 🧩 Project Structure
-```
-
-JavaChatApp_UI/
-│
-├── src/
-│   ├── server/
-│   │   └── Server.java
-│   ├── client/
-│   │   ├── ChatClient.java
-│   │   ├── ClientHandler.java
-│   │   └── controllers/
-│   │       └── ChatController.java
-│   ├── ui/
-│   │   └── resources/
-│   │       ├── themes/
-│   │       │   ├── Classic.css
-│   │       │   ├── DiscordDark.css
-│   │       │   ├── Minimal.css
-│   │       │   └── Glass.css
-│   │       └── fxml/
-│   │           └── chat.fxml
-│   └── utils/
-│       └── Encryption.java
-│
-├── build.gradle
-├── settings.gradle
-└── README.md
-
-````
-
----
-
 ## ⚙️ How to Run the Project
 
 ### **1. Prerequisites**
