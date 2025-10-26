@@ -1,4 +1,3 @@
----
 
 ```markdown
 # 💬 Java Chat Application (JavaFX + Socket Programming)
@@ -165,5 +164,3 @@ It serves as a foundation for building scalable, modern real-time communication 
 ---
 
 ```
-
----
