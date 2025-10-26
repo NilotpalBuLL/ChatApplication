@@ -1,4 +1,3 @@
----
 
 ```markdown
 # 💬 Java Chat Application (JavaFX + Socket Programming)
